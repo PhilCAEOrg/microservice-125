@@ -4,9 +4,9 @@
 -- --------------------------------------------------------
 
 --
--- Table structure for table tab.
+-- Table structure for table tab2.
 --
-CREATE TABLE caeschema.tab (
+CREATE TABLE caeschema.tab2 (
   col INTEGER ,
 CONSTRAINT col_PK PRIMARY KEY (col)
  
